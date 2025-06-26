@@ -1,4 +1,4 @@
-# House Price Prediction with Machine Learning Models and FastAPI
+# 🏡 House Price Prediction with Machine Learning Models and FastAPI
 
 This repository contains a Google Colab notebook that demonstrates the process of building and deploying a house price prediction model using various machine learning algorithms and a FastAPI application. The project covers data loading, exploratory data analysis (EDA), data cleaning and preparation, feature engineering, model training and evaluation, and finally, implementing a simple web application using FastAPI to make predictions.
 
